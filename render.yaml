@@ -1,5 +1,5 @@
 services:
-  - type: worker
+  - type: web
     name: uz-smeta-ai
     runtime: python
     plan: free
